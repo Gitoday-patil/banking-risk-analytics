@@ -86,11 +86,35 @@ The dataset contains multiple related tables linked via **primary and foreign ke
 ---
 
 ## 📷 Project Screenshots
-*(Add screenshots of your Power BI dashboard here)*
+<img width="902" height="511" alt="home" src="https://github.com/user-attachments/assets/233f1fa1-d5ee-431c-a411-1a6d0002c520" />
+<img width="899" height="508" alt="loan" src="https://github.com/user-attachments/assets/471952e7-b1b0-4b26-b07f-aba611642f83" />
+<img width="900" height="508" alt="deposit" src="https://github.com/user-attachments/assets/84b0607e-0759-436d-97eb-0bc3a74b9470" />
+<img width="899" height="504" alt="summary" src="https://github.com/user-attachments/assets/1d50454f-fc8d-45c4-a80d-e5e6f920dc5e" />
+
+
+
+
 
 ---
 
-## 📥 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/banking-dashboard.git
+## 📊 Project Insights
+- **Private banks** hold the largest share of clients and issue higher loan amounts compared to public banks.  
+- **Deposit patterns** show that high deposit clients generally maintain lower loan balances, indicating reduced credit risk.  
+- **Mid-income segment** (< 300,000) represents a significant portion of loan applicants, offering a key target group for banks.  
+- **Client engagement** trends reveal that longer relationships with the bank often lead to higher deposits and consistent repayments.  
+- **Nationality trends** highlight specific countries with higher average loan amounts, helping guide risk assessment strategies.  
+- **Account usage** analysis shows savings and checking accounts dominate, while foreign currency accounts cater to a smaller but high-value customer group.  
+
+---
+
+## 🏁 Conclusion
+The **Banking Risk Analytics Dashboard** demonstrates how **Power BI** can transform raw banking data into actionable insights for smarter decision-making.  
+By combining client demographics, loan and deposit analysis, engagement metrics, and income segmentation, the dashboard enables:  
+- Quick identification of **low- and high-risk loan applicants**.  
+- Strategic targeting of profitable customer segments.  
+- Continuous monitoring of **key banking performance indicators**.  
+- Reduction of default risks through informed lending policies.  
+
+This project highlights that **data-driven analytics is essential for risk reduction, customer growth, and operational efficiency** in the modern banking sector.  
+
+
